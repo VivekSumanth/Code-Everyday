@@ -1,5 +1,5 @@
 # leetcode
-this is repository to keep track of my leetcode 
+this repository is to keep track of my leetcode 
 
 -> 16/05/20
 -> 17/05/20 X
