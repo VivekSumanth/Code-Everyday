@@ -6,5 +6,6 @@ this is repository to keep track of my leetcode
 -> 18/05/20
 -> 19/05/20 
 -> 20/05/20 X 2 submissions one question(15. 3Sum) time limit exceeded
+-> 21/05/20 
 
 
