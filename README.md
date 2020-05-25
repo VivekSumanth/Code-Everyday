@@ -10,6 +10,6 @@ this is repository to keep track of my leetcode
 -> 22/05/20   1 submission
 -> 23/05/20   2 submission and 1 question pending(2.Add Two Numbers)
               attended contest 190 questions solved 0/4 
--> 24/05/20   1 submission 
+-> 24/05/20   2 submissions
 
 
