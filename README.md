@@ -1,5 +1,5 @@
 # leetcode
-this is repository to keep track of my leetcode 
+this repository is to keep track of my leetcode 
 
 -> 16/05/20	  1 submission
 -> 17/05/20 X 2 submissions one question(5. Longest Palindromic Substring) time limit exceeded.
@@ -11,5 +11,6 @@ this is repository to keep track of my leetcode
 -> 23/05/20   2 submission and 1 question pending(2.Add Two Numbers)
               attended contest 190 questions solved 0/4 
 -> 24/05/20   2 submissions
+-> 25/05/20   2 submissions
 
 
