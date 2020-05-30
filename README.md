@@ -1,4 +1,4 @@
-# leetcode
+# leetcode and Hackerrank
 this repository is to keep track of my leetcode 
 
 -> 16/05/20	  1 submission
@@ -15,7 +15,8 @@ this repository is to keep track of my leetcode
 -> 26/05/20   5 submissions and 1 question didnt work (1004. Max Consecutive Ones III)
 -> 27/05/20   2 submissions
 -> 28/05/20   2 submissions (Kadane's Algorithmn - Maxm Subarray) and one question testcase wrong.
-
+-> 29/05/20   2 submissions 
+              hackerrank partialy solved 2/4.
 
 
 
