@@ -26,14 +26,14 @@ this repository is to keep track of my leetcode
 
 -> 27/05/20   2 submissions
 
--> 28/05/20   2 submissions (Kadane's Algorithmn - Maxm Subarray) and one question testcase wrong.
+-> 28/05/20   2 submissions (Kadane's Algorithmn - Maxm Subarray) and one question(Longest Valid Parentheses) testcase wrong.
 
 -> 29/05/20   2 submissions 
               hackerrank partialy solved 2/4.
 
--> 30/05/20   3 submissions - 1 question(Longest Palindromic Substring) time limit exceed
+-> 30/05/20   4 submissions - 1 question(Longest Palindromic Substring) time limit exceed
               bitly contest 1/4
-              weeky contest 
+              weeky contest 1/4
 
 -> 31/05/20  
 

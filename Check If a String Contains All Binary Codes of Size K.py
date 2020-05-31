@@ -1,3 +1,4 @@
+# date:30/05/20
 # Given a binary string s and an integer k.
 
 # Return True if any binary code of length k is a substring of s. Otherwise, return False.
