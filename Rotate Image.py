@@ -48,5 +48,7 @@ class Solution(object):
         """
         matrix[::] = zip(*matrix[::-1])
 
+    rotate([[1,2,3],[4,5,6],[7,8,9]])
+
 # Runtime: 20 ms, faster than 86.92% of Python online submissions for Rotate Image.
 # Memory Usage: 12.7 MB, less than 5.41% of Python online submissions for Rotate Image.
