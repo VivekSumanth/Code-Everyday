@@ -35,7 +35,7 @@ this repository is to keep track of my leetcode
               bitly contest 1/4
               weeky contest 1/4
 
--> 31/05/20  
+-> 31/05/20   1 submission (learning trees)
 
 
 
