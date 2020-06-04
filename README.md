@@ -39,5 +39,9 @@ this repository is to keep track of my leetcode
 
 -> 1/06/20    2 submission (learning trees)
 
+-> 2/06/20    3 submissions
+
+-> 3/06/20    2 submission (learning trees)
+
 
 

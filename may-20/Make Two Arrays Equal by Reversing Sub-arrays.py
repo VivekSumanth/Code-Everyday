@@ -58,6 +58,7 @@ class Solution(object):
                 if i not in target:
                     arry.append('f')
                 else:
+                	target.remove(i)
                     arry.append('t')
         if 'f' in arry:
             return False
