@@ -16,7 +16,7 @@ this repository is to keep track of my leetcode
 -> 22/05/20   1 submission
 
 -> 23/05/20   2 submission and 1 question pending(2.Add Two Numbers)
-              attended contest 190 questions solved 0/4 
+              weekly contest 190 questions solved 0/4 
 
 -> 24/05/20   2 submissions
 
@@ -33,7 +33,7 @@ this repository is to keep track of my leetcode
 
 -> 30/05/20   4 submissions - 1 question(Longest Palindromic Substring) time limit exceed
               bitly contest 1/4
-              weeky contest 1/4
+              weeky contest 191 1/4
 
 -> 31/05/20   1 submission (learning trees)
 
@@ -47,5 +47,6 @@ this repository is to keep track of my leetcode
 
 -> 5/06/20    1 submission (june challange X X)
 
-
+-> 6/06/20    2 submissions (learning recursion in trees)
+              weekly contest 192 2/4
 

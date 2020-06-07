@@ -29,24 +29,15 @@
 #         self.right = right
 class Solution(object):
     def preorderTraversal(self, root):
-        """
-        :type root: TreeNode
-        :rtype: List[int]
-        """
-        q = []
-        q.append(root)
-        lis = []
-        while(len(q)):
-            temp = q[0]
-            lis.append(temp.val)
-            q.pop(0)
-            
-            if temp.left != None:
-                q.append(temp.left)
-            if temp.right != None:
-                q.append(temp.right)
-                
-        return lis     
+        ret = []
+        stack = [root]
+        while stack:
+            node = stack.pop()
+            if node:
+                ret.append(node.val)
+                stack.append(node.right)
+                stack.append(node.left)
+        return ret
                
         #recursive
         lis = []
