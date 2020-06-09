@@ -50,3 +50,7 @@ this repository is to keep track of my leetcode
 -> 6/06/20    2 submissions (learning recursion in trees)
               weekly contest 192 2/4
 
+-> 7/06/20    learning trees
+
+-> 8/06/20    2 submissions
+
