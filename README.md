@@ -54,3 +54,4 @@ this repository is to keep track of my leetcode
 
 -> 8/06/20    2 submissions
 
+-> 9/06/20    3 submissions
