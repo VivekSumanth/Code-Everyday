@@ -61,3 +61,9 @@ this repository is to keep track of my leetcode
 -> 11/06/20   3 submissions
 
 -> 12/06/20   4 submissions
+
+-> 13/06/20   1 submission
+              bitly contest 28 1/4
+              weekly contest 193 1/4 2nd time limit exceed
+              solve 5454
+              
