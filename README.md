@@ -71,4 +71,11 @@ this repository is to keep track of my leetcode
               
 -> 15/06/20   practice more bst and trees 
 
+-> 16/06/20   learning BST
+
+-> 17/06/20   Learning BST
+
+-> 18/06/20   8 submissions 
+              learning Mergesort.
+
               
