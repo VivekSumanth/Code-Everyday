@@ -77,5 +77,8 @@ this repository is to keep track of my leetcode
 
 -> 18/06/20   8 submissions 
               learning Mergesort.
+            
+-> 19/06/20   1 submission
+              learning recursion.
 
               
