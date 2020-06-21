@@ -81,4 +81,9 @@ this repository is to keep track of my leetcode
 -> 19/06/20   1 submission
               learning recursion.
 
+-> 20/06/20   1 submissions
+              weekly contest 1/4 
+              techgig code gladiators 1/2
+              
+
               
