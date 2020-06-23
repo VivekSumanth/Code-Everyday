@@ -84,6 +84,14 @@ this repository is to keep track of my leetcode
 -> 20/06/20   1 submissions
               weekly contest 1/4 
               techgig code gladiators 1/2
-              
+
+-> 21/06/20   1 submission
+              Learning Hashtables
+
+-> 22/06/20   2 submissions
+              Learning Hashtables
+              solved Hashtables problems from geeks for geeks.
+
+
 
               
