@@ -47,7 +47,7 @@ this repository is to keep track of my leetcode
 
 -> 5/06/20    1 submission (june challange X X)
 
--> 6/06/20    2 submissions (learning recursion in trees)
+-> 6/06/20    2 submissions (learning recursion in trees)]
               weekly contest 192 2/4
 
 -> 7/06/20    learning trees
@@ -73,6 +73,8 @@ this repository is to keep track of my leetcode
 
 -> 16/06/20   learning BST
 
+--------------------------------------------------------------   30 DAYS OF CODE  ---------------------------------------------------------------------
+
 -> 17/06/20   Learning BST
 
 -> 18/06/20   8 submissions 
@@ -91,6 +93,10 @@ this repository is to keep track of my leetcode
 -> 22/06/20   2 submissions
               Learning Hashtables
               solved Hashtables problems from geeks for geeks.
+
+-> 23/06/20   1 submission
+              Learning Divide and Conquer
+              Learn Collections 
 
 
 
