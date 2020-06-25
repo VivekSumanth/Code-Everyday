@@ -16,11 +16,11 @@ DATA STRUCTURES
 
 -> Binary Heaps
 
--> Hash Tables
+-> Hash Tables 👍
 
 -> Graphs
 
--> Hash Maps
+-> Hash Maps 👍
 
 -------------------------------------------------------------------------------------------------------------------------------------
 CONCEPTS
@@ -30,7 +30,7 @@ CONCEPTS
 
 -> Dynamic Programming
 
--> Bit Manupulations
+-> Bit Manipulations
 
 -------------------------------------------------------------------------------------------------------------------------------------
 Algorithms
@@ -53,7 +53,7 @@ Algorithms
 
 -> Sliding window Algorithms 👍
 
--> seive of eratosthenes(find number of primes under a given number ) 
+-> seive of eratosthenes(find number of primes under a given number ) 👍
 
 -------------------------------------------------------------------------------------------------------------------------------------
 OTHER
@@ -61,9 +61,9 @@ OTHER
 
 -> Double ended Deque 
  
--> Matrix Manupulations
+-> Matrix Manupulations 👍
 
--> Dictionary Usage
+-> Dictionary Usage 👍
 
 -> Collections Module
 
