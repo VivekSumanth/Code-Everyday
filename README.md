@@ -100,6 +100,9 @@ this repository is to keep track of my leetcode
             
 -> 24/06/20   3 submissions
               sieve of eratosthenes
+
+-> 25/06/20   3 submissions
+
               
             
 
