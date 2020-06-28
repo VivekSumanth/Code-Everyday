@@ -106,6 +106,13 @@ this repository is to keep track of my leetcode
 -> 25/06/20   3 submissions
 
 -> 26/06/20   4 submissions
+
+-> 27/06/20   4 submissions
+              bitly contest 2/4
+              weekly contest 0/4
+              1493 TLE
+              5449 TLE
+              learn patterns recursion
              
             
 
