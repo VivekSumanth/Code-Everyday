@@ -137,7 +137,13 @@ this repository is to keep track of my leetcode
               
               learn patterns recursion
              
-            
+-> 28/06/20   2 submissions
+
+-> 29/06/20   learning Dynamic programming  
+
+-> 30/06/20   learning Dynamic programming
+
+-> 1/07/20    5 Submissions
 
 
 

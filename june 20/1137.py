@@ -60,3 +60,37 @@ class Solution(object):
         return (recursion(n))
         
 -- fails under recursion need effective way
+
+
+-- dynamic programming
+
+class Solution(object):
+    def tribonacci(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        cache = dict()
+        
+        for i in range(n+1):
+            cache[i] = None
+            
+
+        def recursion(num):
+            
+            if num == 0 or num == 1:
+                cache[num] = num
+
+            elif num == 2:
+                cache[num] = 1
+
+            if cache[num] is None:
+                
+                cache[num] =  recursion(num-1) + recursion(num-2) + recursion(num-3)
+               
+            return cache[num]
+
+        return (recursion(n))
+
+Runtime: 16 ms, faster than 76.29% of Python online submissions for N-th Tribonacci Number.
+Memory Usage: 12.7 MB, less than 61.54% of Python online submissions for N-th Tribonacci Number.
