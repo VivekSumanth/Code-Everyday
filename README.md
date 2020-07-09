@@ -145,6 +145,25 @@ this repository is to keep track of my leetcode
 
 -> 1/07/20    5 Submissions
 
+-> 2/07/20    2 Submissions
+
+-> 3/07/20    2 Submissions
+
+-> 4/07/20    2 Submissions
+
+-> 5/07/20    2 Submissions
+
+-> 6/07/20    2 Submissions
+              -> reccurence relation of nCr
+              -> nPr
+              -> catlyn number
+
+-> 7/07/20   1 submissions
+
+-> 8/07/20   2 submissions
+
+
+
 
 
               
