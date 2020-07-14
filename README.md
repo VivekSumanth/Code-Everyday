@@ -158,9 +158,26 @@ this repository is to keep track of my leetcode
               -> nPr
               -> catlyn number
 
+--------------------------------------------------------------   50 DAYS OF CODE  ------------------------------
+
+
 -> 7/07/20   1 submissions
 
 -> 8/07/20   2 submissions
+
+-> 9/07/20   2 submissions
+
+-> 10/07/20  1 submission
+
+-> 11/07/20  1 submission
+
+-> 12/07/20  2 submissions
+
+-> 13/07/20  2 submissions
+            -> learning bit manipulation
+
+-> 14/07/20  2 submission
+            -> learning bit manipulation
 
 
 
