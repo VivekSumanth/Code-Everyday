@@ -45,6 +45,7 @@
 # s[i] == '0' or s[i] == '1'
 # 1 <= s.length <= 10^5
 
+# mathematical approach
 class Solution(object):
     def numSub(self, s):
         """
@@ -58,4 +59,32 @@ class Solution(object):
             count = count+(len(i)*(len(i)+1))/2
 
         return (count) % (10**9 + 7)
+
+
+#  naive apporoach
+class Solution(object):
+    def numSub(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        
+        count = 0
+        place = 0
+        leng = len(s)
+
+        for i in range(1,leng+1):
+            
+            z = s[place:i]
+
+            if '0' in z:
+                place = place+1
+
+            elif '0' not in z:
+                l = len(z)
+                for i in range(leng):
+                    if z == s[i:i+l]:
+                        count = count + 1
+                        
+        return (count)
         
