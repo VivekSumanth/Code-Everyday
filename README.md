@@ -169,6 +169,9 @@ this repository is to keep track of my leetcode
 
 -> 18/07/20  1 submissions
 
+-> 19/07/20  1 submissions
+            -> learnings graphs
+
 
 
 
