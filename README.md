@@ -174,6 +174,16 @@ this repository is to keep track of my leetcode
 
 -> 20/07/20  1 submissions
             -> learning BFS
+
+-> 21/07/20  1 submission
+            ->learning BFS
+
+-> 22/07/20  1 submissions
+
+-> 23/07/20  2 submissions
+
+-> 24/07/20  1 submissions
+             -> DFS using recursion 
             
 
 
