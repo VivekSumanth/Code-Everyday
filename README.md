@@ -184,8 +184,32 @@ this repository is to keep track of my leetcode
 
 -> 24/07/20  1 submissions
              -> DFS using recursion 
-            
 
+-> 25/07/20  1 submissions
+            -> Topological sort
+
+-> 26/07/20  1 submissions
+            -> Topological sort
+            -> Graph cycle
+
+-> 27/07/20  1 submissions
+            -> graph cycle
+
+-> 28/07/20  1 submissions
+            -> Disjoint sets , union and find
+
+-> 29/07/20  1 submissions
+            -> union and find
+
+-> 30/07/20  1 submissions
+
+-> 31/07/20  1 submissions
+
+-> 01/08/20  3 submissions
+
+-> 02/08/20  1 submissions
+            -> Union and find with path Compression
+            -> Disjoint set forests. 
 
 
 
