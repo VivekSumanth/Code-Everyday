@@ -207,9 +207,29 @@ this repository is to keep track of my leetcode
 
 -> 01/08/20  3 submissions
 
--> 02/08/20  1 submissions
-            -> Union and find with path Compression
-            -> Disjoint set forests. 
+-> 02/08/20  2 submissions
+            -> DFS matrix manipulation
+
+-> 03/08/20  1 submissions
+
+-> 04/08/20  1 submissions
+
+-> 05/08/20  1 submissions
+            -> Learning backtracking
+
+-> 06/08/20  1 submissions
+            -> Learning Backtracking
+
+-> 07/08/20  1 submissions
+            -> learning Backtracking
+
+-> 08/08/20  1 submissions
+
+-> 09/08/20  1 submission
+
+-> 10/08/20  1 submissions
+
+-> 11/08/20  1 submissions
 
 
 
