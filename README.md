@@ -237,10 +237,19 @@ this repository is to keep track of my leetcode
 
 -> 14/08/20  1 submissions
 
--> 15/08/20  
+-> 15/08/20  1 submissions
 
+-> 16/08/20  1 submissions
 
+-> 17/08/20  1 submissions
 
+-> 18/08/20  1 submissions
+
+-> 19/08/20  1 submissions
+
+-> 20/08/20  1 submissions
+
+-> 21/08/20  1 submissions
 
 
 
